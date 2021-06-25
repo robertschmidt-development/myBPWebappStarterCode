@@ -1,0 +1,11 @@
+{
+  "php.validate.run": "onType",
+  "editor.quickSuggestions": { "comments": true },
+  "php.validate.executablePath": "C:/MAMP/bin/php/php7.4.1/php.exe",
+  "php.suggest.basic": false,
+
+  "[php]": {
+    "editor.defaultFormatter": "junstyle.php-cs-fixer",
+	  "editor.formatOnSave": true
+  }
+}
